@@ -1,3 +1,2 @@
-s=input().split()
-s=s[::-1]
-print(*s)
+n=input()
+print(n[::-1])
